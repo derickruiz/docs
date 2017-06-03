@@ -30,3 +30,5 @@ module.exports = {
   ]
 }
 ```
+
+Make sure have `node-sass` and `sass-loader` installed if you use `scss` or `sass` as the language by running `npm install node-sass sass-loader --save-dev`.
